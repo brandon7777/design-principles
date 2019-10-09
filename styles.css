@@ -1,5 +1,8 @@
+@import-url(https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet);
+
 body {
-  font-family: arial;
+    font-family: 'Inconsolata', monospace;
+  
 }
 
 .container {
